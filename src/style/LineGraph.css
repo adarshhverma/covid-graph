@@ -1,0 +1,10 @@
+.lineGraph{
+    height: 400px;
+    width: 70%;
+    padding: 15px;
+    background-color: #45a29e;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: -7px 7px 15px 1px rgba(0,0,0,0.6);
+
+}
